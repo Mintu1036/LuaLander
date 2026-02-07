@@ -1,6 +1,6 @@
 # 🚀 2D Lander Game – Unity
 
-A **2D Lander-style game** built using **Unity** and **C#**, where the player must carefully control a lander, collect coins, and land safely on designated landing pads across multiple levels.
+**LuaLander** is a **2D Lander-style game** built using **Unity** and **C#**, where the player must carefully control a lander, collect coins, and land safely on designated landing pads across multiple levels.
 
 This project was built to practice **core game development concepts** beyond tutorials, focusing on gameplay systems, level management, and camera control.
 
